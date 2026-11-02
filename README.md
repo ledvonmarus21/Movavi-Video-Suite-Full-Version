@@ -257,4 +257,4 @@ This repository serves as the official landing page for Movavi Video Suite. The 
 **Get the most recent version of Movavi Video Suite today!**
 
 ---
-**Last updated:** 2026-11-02 03:12:26 UTC
+**Last updated:** 2026-11-02 11:47:21 UTC
